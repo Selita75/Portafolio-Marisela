@@ -13,3 +13,4 @@ Este proyecto muestra un tablero interactivo creado en Microsoft Excel con gráf
 
 💡 **Notas personales:**
 Este fue uno de mis primeros proyectos aplicando organización visual y lógica en la presentación de datos. Me enfoqué en mantener claridad y funcionalidad.
+📂 Archivo del proyecto: [Descargar tablero en Excel](./TABLERO.xlsx)
