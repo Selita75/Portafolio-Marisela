@@ -6,6 +6,9 @@ Este proyecto muestra un tablero interactivo creado en Microsoft Excel con gráf
 - Microsoft Excel (tablas dinámicas, gráficos, segmentadores)
 - Diseño metódico y visual para resaltar indicadores clave
 
+📷 **Capturas del tablero:**  ![excel](https://github.com/user-attachments/assets/f47b4128-16f2-4456-b60e-68d8477da9bc)
+
+
 🎥 **Video de demostración:** [Próximamente]
 
 💡 **Notas personales:**
