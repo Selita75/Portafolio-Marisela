@@ -13,7 +13,6 @@ Facilitar el análisis visual del comportamiento de ingresos en América del Nor
 
 📷 **Cap![powerbi](https://github.com/user-attachments/assets/07747a94-c7dd-49ce-b8c4-563197b6e2ef)
 turas del tablero:**  
-*(Agrega aquí una imagen del dashboard como referencia)*
 
 🎥 **Video de demostración:** [Ver en YouTube](URL-del-video-cuando-esté-listo)
 
