@@ -19,4 +19,8 @@ Facilitar el análisis visual del comportamiento de ingresos en América del Nor
 💡 **Notas personales:**
 Este proyecto refleja mi enfoque metódico y visual para la presentación de información. A través de segmentadores y KPIs, busqué construir un tablero intuitivo que facilite la toma de decisiones.
 
+📂 Archivo del proyecto: [Descargar archivo Power BI – Elaborate_Rep.pbix](./Elaborate_Rep.pbix)
+
+
+
 ---
