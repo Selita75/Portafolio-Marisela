@@ -17,7 +17,7 @@ El dashboard permite identificar tendencias, evaluar el desempeño anual y explo
 <img width="1158" height="590" alt="powerbi" src="https://github.com/user-attachments/assets/7c9054d8-ce75-474f-b5d2-e4a73e3df4a8" />
 
 
-🎥 **Video de demostración:** [Ver en YouTube](URL-del-video-cuando-esté-listo)
+🎥 **Video de demostración:** [Ver en YouTube](https://youtu.be/4njJhegH1L0))
 
 💡 **Notas personales:**
 Este proyecto refleja mi enfoque metódico y visual para la presentación de información. A través de segmentadores y KPIs, 
