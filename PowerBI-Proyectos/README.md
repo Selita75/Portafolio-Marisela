@@ -22,5 +22,5 @@ El dashboard permite identificar tendencias, evaluar el desempeño anual y explo
 💡 **Notas personales:**
 Este proyecto refleja mi enfoque metódico y visual para la presentación de información. A través de segmentadores y KPIs, 
 busqué construir un Dashboard intuitivo que facilite la toma de decisiones.
-
+📂 Archivo del proyecto: [Descargar archivo Power BI (.pbix)](./Elaborate_Rep.pbix)
 ---
