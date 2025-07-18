@@ -9,4 +9,5 @@ Este portafolio reúne algunos de mis proyectos personales realizados con:
 - **SQL (PostgreSQL)**: Consultas orientadas a la exploración de datos simulados.
 - **Excel**: Visualización y automatización con gráficos y segmentadores.
 
-Cada carpeta contiene ejemplos prácticos, capturas y enlaces a videos explicativos. ¡Gracias por tu visita!
+Aquí encontrarás en cada carpeta su archivo fuente, imagen explicativa y video desde mi canal de YouTube. ¡Gracias por tu visita!
+
